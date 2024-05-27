@@ -1,27 +1,27 @@
 [
     {
-        "nombre":"Assassins Creed IV",
+        "nombre":"Marvel's Wolverine",
         "precio":35000,
         "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic necessitatibus autem impedit fuga error possimus, iusto veritatis id? Facere iure soluta nemo eius illum,amet quisquam voluptatibus quis optio voluptatum.",
         "genero":"Aventura",
         "id":1
     },
     {
-        "nombre":"Assassins Creed Odissey",
+        "nombre":"Horizon Forbidden West ",
         "precio":60000,
         "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic necessitatibus autem impedit fuga error possimus, iusto veritatis id? Facere iure soluta nemo eius illum,amet quisquam voluptatibus quis optio voluptatum.",
         "genero":"Aventura",
         "id":2
     },
     {
-        "nombre":"Assassins Creed Origins",
+        "nombre":"Dragon's Dogma 2 ",
         "precio":60000,
         "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic necessitatibus autem impedit fuga error possimus, iusto veritatis id? Facere iure soluta nemo eius illum,amet quisquam voluptatibus quis optio voluptatum.",
         "genero":"Aventura",
         "id":3
     },
     {
-        "nombre":"Assassins Creed Syndicate",
+        "nombre":"God of War: Ragnarok",
         "precio":40000,
         "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic necessitatibus autem impedit fuga error possimus, iusto veritatis id? Facere iure soluta nemo eius illum,amet quisquam voluptatibus quis optio voluptatum.",
         "genero":"Aventura",
@@ -35,64 +35,64 @@
         "id":5
     },
     {
-        "nombre":"Assassins Creed Unity",
+        "nombre":"Assassin's Creed Mirage",
         "precio":34000,
         "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic necessitatibus autem impedit fuga error possimus, iusto veritatis id? Facere iure soluta nemo eius illum,amet quisquam voluptatibus quis optio voluptatum.",
         "genero":"Aventura",
         "id":6
     },
     {
-        "nombre":"Assassins Creed Valhalla",
+        "nombre":"Elden Ring",
         "precio":75000,
         "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic necessitatibus autem impedit fuga error possimus, iusto veritatis id? Facere iure soluta nemo eius illum,amet quisquam voluptatibus quis optio voluptatum.",
         "genero":"Aventura",
         "id":7
     },
     {
-        "nombre":"Batman Arkham Knight",
+        "nombre":"Hogwarts Legacy",
         "precio":19000,
         "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic necessitatibus autem impedit fuga error possimus, iusto veritatis id? Facere iure soluta nemo eius illum,amet quisquam voluptatibus quis optio voluptatum.",
         "genero":"Aventura",
         "id":8
     },
     {
-        "nombre":"Batman Return to Arkham",
+        "nombre":"Marvel's Spider-Man 2",
         "precio":22000,
         "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic necessitatibus autem impedit fuga error possimus, iusto veritatis id? Facere iure soluta nemo eius illum,amet quisquam voluptatibus quis optio voluptatum.",
         "genero":"Aventura",
         "id":9
     },
     {
-        "nombre":"Battlefield 1",
+        "nombre":"Helldivers 2",
         "precio":28000,
         "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic necessitatibus autem impedit fuga error possimus, iusto veritatis id? Facere iure soluta nemo eius illum,amet quisquam voluptatibus quis optio voluptatum.",
         "genero":"Accion",
         "id":10
     },
     {
-        "nombre":"Battlefield 4",
+        "nombre":"Prince of Persia: The Lost Crown",
         "precio":29000,
         "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic necessitatibus autem impedit fuga error possimus, iusto veritatis id? Facere iure soluta nemo eius illum,amet quisquam voluptatibus quis optio voluptatum.",
-        "genero":"Accion",
+        "genero":"Aventura",
         "id":11
     },
     {
-        "nombre":"Battlefield V",
+        "nombre":"Call of Duty: Modern Warfare 3 (2023)",
         "precio":45000,
         "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic necessitatibus autem impedit fuga error possimus, iusto veritatis id? Facere iure soluta nemo eius illum,amet quisquam voluptatibus quis optio voluptatum.",
         "genero":"Accion",
         "id":12
     },
     {
-        "nombre":"Battlefield Hardline",
-        "precio":15000,
+        "nombre":"Alan Wake 2",
+        "precio":60000,
         "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic necessitatibus autem impedit fuga error possimus, iusto veritatis id? Facere iure soluta nemo eius illum,amet quisquam voluptatibus quis optio voluptatum.",
-        "genero":"Accion",
+        "genero":"Terror",
         "id":13
     },
     {
-        "nombre":"Borderlands 3",
-        "precio":32000,
+        "nombre":"Star Wars Jedi: Survivor ",
+        "precio":60000,
         "descripcion":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic necessitatibus autem impedit fuga error possimus, iusto veritatis id? Facere iure soluta nemo eius illum,amet quisquam voluptatibus quis optio voluptatum.",
         "genero":"Accion",
         "id":14
